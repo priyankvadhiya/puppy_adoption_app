@@ -24,7 +24,7 @@ The app is build during the Android Dev Challenge for Jetpack Compose.
 ## :camera_flash: Screenshots
 
 <!-- You can add more screenshots here if you like -->
-<img src="/results/screenshot_1.png" width="260"><img src="/results/screenshot_2.png" width="260">
+<img src="/results/screenshot_1.png" width="260">    <img src="/results/screenshot_2.png" width="260">
 
 <video width="320" height="240" controls>
   <source src="/results/video.mp4" type="video/mp4">
