@@ -2,7 +2,7 @@
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
-(https://github.com/priyankvadhiya/Puppy-adoption-app)
+(https://github.com/priyankvadhiya/puppy_adoption_app)
 
 ## :scroll: Description
 
@@ -27,8 +27,8 @@ The app is build during the Android Dev Challenge for Jetpack Compose.
 <img src="/results/screenshot_1.png" width="260">
 &emsp;<img src="/results/screenshot_2.png" width="260">
 
-<video controls="controls">
-  <source type="video/mp4" src="/results/video.mp4"></source>
+<video width="320" height="240" controls>
+  <source src="/results/video.mp4" type="video/mp4">
 </video>
 
 ## License
